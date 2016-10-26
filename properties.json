@@ -1,0 +1,16 @@
+{
+	"Form_Page": {
+		"name.textbox": "id:entry_1041466219",
+		"name_error.label": "xpath://*[@id='ss - form']/ol/div[1]/div/div/div[2]",
+		"development_yes.checkbox": "id:group_310473641_1",
+		"development_no.checkbox": "id:group_310473641_2",
+		"development_error.label": "xpath://form[@id='ss-form']/ol/div[2]/div/div/div[2]",
+		"fav_framework.select": "id:entry_262759813",
+		"comments.textbox": "id:entry_649813199",
+		"submit.button": "id:ss-submit"
+	},
+
+	"Success_Page": {
+		"success_message.label":"xpath://div[@class='ss-resp-message']"
+	}
+}
