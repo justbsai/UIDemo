@@ -22,23 +22,38 @@ This exercise is meant to give us a basic idea of your coding aptitude and style
 - In this testcase we are testing the webpage by entering valid data into the fields and selecting all the mandatory fields.
 
 Step 1 - Open Chrome and Navigate to the given webpage.
+
 Step 2 - Assert if the title of the loaded page with the expected title.
+
 Step 3 - Enter data into the Name Text Box.
+
 Step 4 - Select any check box for the field "Do you enjoy development?".
+
 Step 5 - Select any option from the "Favourite Test Framework" dropdown.
+
 Step 6 - Enter Text into Comments Field
+
 Step 7 - Click on Submit Button
+
 Step 8 - Assert the success page title with the expected title.
+
 Step 9 - Assert the success message with the expected message.
+
 Step 10 - Exit the browser
 
 ###Test Case 2 - Negative Test Case
 - In this testcase we are testing the error if no option is selected for "Do you like development?" field
+
 Step 1 - Open Chrome and Navigate to the given webpage.
+
 Step 2 - Assert if the title of the loaded page with the expected title.
+
 Step 3 - Enter data into the Name Text Box.
+
 Step 4 - Click on Submit button
+
 Step 5 - Verify if the control is in the same page and check if "This is a required question" error is displayed.
+
 Step 6 - Exit the browser
 
 ##Other Tests
