@@ -1,3 +1,4 @@
+#Page Object Class for Form_Page containing methods for all elements in the page.
 require 'selenium-webdriver'
 require 'json'
 
