@@ -1,3 +1,5 @@
+#Page Object Class for Success_Page containing methods for all elements in the page.
+
 require 'selenium-webdriver'
 
 class Success_Page
